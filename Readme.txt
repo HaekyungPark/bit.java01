@@ -1,3 +1,1 @@
-abc
-abc
-absd
+왜 안돼
